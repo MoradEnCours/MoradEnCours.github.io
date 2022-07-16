@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-description: About page
+title: about
+description: about page
 permalink: /about/
 ---
 
 ## Background
 I will progressively start to complete this section as I gain the inspiration to do so. For now, I am merely some random student that is trying to configure and write up his website.
 
-This random student is progressively on his way to saturating his originally planned website with some interesting content. Just remember to:
+The random student is progressively on their way to saturating their originally planned website with some interesting content. Just remember to:
 > Ouvrez l'oeil
 
 ## Contact
