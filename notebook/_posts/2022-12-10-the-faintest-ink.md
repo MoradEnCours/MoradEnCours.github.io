@@ -1,8 +1,8 @@
 ---
 layout: post
 type: post
-title: "The Retrieval of a Pastime"
-date: 2022-12-06
+title: "The Faintest Ink"
+date: 2022-12-10
 category: notebook
 comments: true
 author: "MenCours"
